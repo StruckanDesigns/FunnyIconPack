@@ -7,7 +7,7 @@ h3   {color: white;}
 p    {color: white;}
 p    {align="left"}
 </style>
-  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+  <link rel="shortcut icon" type="image/x-icon" href="photo.jpg">
 </head>
 <body>
 
