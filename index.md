@@ -14,9 +14,7 @@ p    {align="left"}
 
 <center>
 
-<h1>Privacy Policy + Terms and Conditions</h1>
-<h3>Laswt updated 2020 March 14</h3>
-
+<h1>Privacy Policy + Terms and Conditions Last updated 2020 March 14</h1>
 
 </center>
 
