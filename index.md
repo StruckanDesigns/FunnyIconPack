@@ -2,14 +2,6 @@
 <html>
 <head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-136569800-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-136569800-1');
-</script>
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="icon" href="images/icon.jpg" type="image/gif" sizes="16x16"></link>
