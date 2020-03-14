@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <link rel="icon" href="photo.jpg" type="image/gif" sizes="16x16"></link>
+
   <title>Privacy Policy</title>
 </head>
 <body>
