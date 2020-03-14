@@ -11,7 +11,7 @@ p    {align="left"}
 
 <center>
 
-<h1>Privacy Policy</h1>
+<h1>Privacy Policy + Terms and Conditions</h1>
 
 </center>
 
