@@ -25,10 +25,10 @@ p    {color: white;}
 <h1>Information Collection and Use</h1><br>
 
 <p>For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Internet,storage. The information that I request will be retained on your device and is not collected by me in any way.</p><br>
-<p>The app does use third party services that may collect information used to identify you.</p><br>
-<p>Link to privacy policy of third party service providers used by the app</p><br>
-<p><a href="https://policies.google.com/privacy">Google Play Services</a></p><br>
-<p><a href="https://firebase.google.com/policies/analytics">Firebase Analytics</a></p><br>
+<p>The app does use third party services that may collect information used to identify you.</p>
+<p>Link to privacy policy of third party service providers used by the app</p>
+<p><a href="https://policies.google.com/privacy">Google Play Services</a></p>
+<p><a href="https://firebase.google.com/policies/analytics">Firebase Analytics</a></p>
 
 
 
