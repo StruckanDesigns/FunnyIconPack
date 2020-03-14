@@ -11,21 +11,9 @@
 
 <center>
 
-        <p>
-      Random Champion Generator isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing League of Legends.
-      League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc.
-      League of Legends © Riot Games, Inc.
-    </p>
+<p>This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.</p> <br><br>
 
-<p>
-      This site uses Google Analytics to collect non-personally identifiable information about visitors, which lets me improve the site based on how it is being used.
-      Collected information includes the URLs of the pages you visit on this site, the type of device you are using (i.e. computer, phone, or tablet), and how you were referred to the site (e.g. searching for it on Google, clicking a link on Reddit, or entering the URL directly into your address bar).
-      You can read about how Google collects and uses this information <a href="https://www.google.com/policies/privacy/partners/">here</a>.
-    </p>
-
-<p>
-This site does not use ads. We do not use cookies. This site stores a value if you enable dark mode in local storage on your web browser.
-</p>
+<p>This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.</p> <br><br>
 
 </center>
 
