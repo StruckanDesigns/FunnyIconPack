@@ -12,7 +12,7 @@ p    {align="left"}
 <center>
 
 <h1>Privacy Policy + Terms and Conditions</h1>
-<h1>Last updated 2020, March 14</h1>
+<h3>Last updated 2020, March 14</h3>
 
 
 </center>
