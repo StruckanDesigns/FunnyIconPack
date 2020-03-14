@@ -4,6 +4,7 @@
 body {background-color: #161625;}
 h1   {color: white;}
 p    {color: white;}
+p    {align="left"}
 </style>
 </head>
 <body>
