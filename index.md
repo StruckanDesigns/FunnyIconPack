@@ -41,8 +41,8 @@ p    {color: white;}
 
 <h1>Service Providers</h1>
 
-<p>I may employ third-party companies and individuals due to the following reasons:<br>
-To facilitate our Service;<br>
+<p>I may employ third-party companies and individuals due to the following reasons:</p>
+<p>To facilitate our Service;<br>
 To provide the Service on our behalf;<br>
 To perform Service-related services; or<br>
 To assist us in analyzing how our Service is used.</p>
