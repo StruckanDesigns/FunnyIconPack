@@ -14,7 +14,7 @@ p    {align="left"}
 
 <center>
 
-<h1>Privacy Policy + Terms and Conditions Last updated 2020 March 14</h1>
+<h1>Privacy Policy + Terms and Conditions <br> Last updated 2020 March 14</h1>
 
 </center>
 
