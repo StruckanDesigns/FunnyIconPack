@@ -4,7 +4,7 @@
 <!-- Global site tag (gtag.js) - Google Analytics -->
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="icon" href="images/icon.jpg" type="image/gif" sizes="16x16"></link>
+<link rel="icon" href="photo.jpg" type="image/gif" sizes="16x16"></link>
 
 <title>Privacy Policy</title>
 
