@@ -1,19 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="icon" href="photo.jpg" type="image/gif" sizes="16x16"></link>
-
-<title>Privacy Policy</title>
-
+  <link rel="icon" href="photo.jpg" type="image/gif" sizes="16x16"></link>
+  <title>Privacy Policy</title>
 </head>
-<body class="body"> 
-
-<div class="topnav" id="myTopnav">
-<?php include('topnav.php'); ?>
-</div>
+<body>
 
 <center>
 
@@ -38,8 +29,6 @@
 <p>
 This site does not use ads. We do not use cookies. This site stores a value if you enable dark mode in local storage on your web browser.
 </p>
-
-</center>
 
 </center>
 
