@@ -63,64 +63,102 @@ p    {align="left"}
 <p>v1.9.0</p>
 <p>Added all Google icons</p>
 
+<hr>
+
 <p>v1.8.0</p>
 <p>Added link to my websitek<br>
    Added Privacy Policy link<br>
    Added Terms And Condition link</p>
+   
+<hr>
 
-<h1>v1.7.0</h1>
+<p>v1.7.0</p>
 <p>Added firebase analytics</p>
 
-<h1>v1.6.0</h1>
+<hr>
+
+<p>v1.6.0</p>
 <p> Added a new icon for the app<br>
     Added more icons<br>
     Changed the name of the icon pack</p>
+    
+<hr>
 
-<h1>v1.5.0</h1>
+<p>v1.5.0</p>
 <p>Added more icons</p>
 
-<h1>v1.4.0</h1>
+<hr>
+
+<p>v1.4.0</p>
 <p>Added filters to icon tab</p>
 
-<h1>v1.3.0</h1>
+<hr>
+
+<p>v1.3.0</p>
 <p>Removed the limit for how many icons you can request</p>
 
-<h1>v1.2.0</h1>
+<hr>
+
+<p>v1.2.0</p>
 <p>Added more icons</p>
 
-<h1>v1.1.0</h1>
+<hr>
+
+<p>v1.1.0</p>
 <p>Added more icons</p>
 
-<h1>v1.0.9</h1>
+<hr>
+
+<p>v1.0.9</p>
 <p>Added more icons</p>
 
-<h1>v1.0.8</h1>
+<hr>
+
+<p>v1.0.8</p>
 <p>Added Dynamic Samsung and Google Calendar</p>
 
-<h1>v1.0.7</h1>
+<hr>
+
+<p>v1.0.7</p>
 <p>Added more icons</p>
 
-<h1>v1.0.6</h1>
+<hr>
+
+<p>v1.0.6</p>
 <p>Added more icons<br>
    Added new wallpaper location</p>
 
-<h1>v1.0.5</h1>
+<hr>
+
+<p>v1.0.5</p>
 <p>Added more icons</p>
 
-<h1>v1.0.4</h1>
+<hr>
+
+<p>v1.0.4</p>
 <p>Added more icons</p>
 
-<h1>v1.0.3</h1>
+<hr>
+
+<p>v1.0.3</p>
 <p>Added twenty more icons</p>
 
-<h1>v1.0.2</h1>
+<hr>
+
+<p>v1.0.2</p>
 <p>Added three more icons</p>
 
-<h1>v1.0.1</h1>
+<hr>
+
+<p>v1.0.1</p>
 <p>Added Spotify icon</p>
 
-<h1>v1.0.0</h1>
+<hr>
+
+<p>v1.0.0</p>
 <p>First version released</p>
+
+<hr>
 
 <br>
 <p>&copy; 2020 Struckan Designs &middot; <a href="https://twitter.com/StruckanDesigns">Twitter</a> &middot; <a href="contact">Contact us</a>  &middot; <a href="https://struckandesigns.github.io/FunnyIconPack/">Privacy Policy</a> </p>
