@@ -53,12 +53,14 @@ p    {align="left"}
 
 <center>
 
-<h1>Change Log <br>Current Version: 1.8.0</h1>
+<h1>Change Log <br>Current Version: 1.9.0</h1>
 
 </center>
 
 <center>
 
+<h1>v1.7.0</h1>
+<p>Added all Google icons</p>
 
 <h1>v1.8.0</h1>
 <p>Added link to my websitek<br>
