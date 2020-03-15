@@ -59,10 +59,9 @@ p    {align="left"}
 
 <p>If you have any questions or suggestions, do not hesitate to contact me at struckandesigns@gmail.com</p>
 
-<hr>
 <footer>
   <p>&copy; 2020 Struckan Designs &middot; <a href="https://twitter.com/StruckanDesigns">Twitter</a> &middot; <a href="contact">Contact us</a>  &middot; <a href="https://struckandesigns.github.io/FunnyIconPack/">Privacy Policy</a> </p>
-</footer
+
 
 </center>
 
