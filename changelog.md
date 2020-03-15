@@ -38,15 +38,6 @@ p    {align="left"}
   background-color: #4CAF50;
   color: white;
 }
-
-.footer {
-   position: fixed;
-   left: 0;
-   bottom: 0;
-   width: 100%;
-   color: white;
-   text-align: center;
-}
     
 </style>
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
@@ -128,11 +119,9 @@ p    {align="left"}
 <h1>v1.0.0</h1>
 <p>First version released</p>
 
+<br>
+<p>&copy; 2020 Struckan Designs &middot; <a href="https://twitter.com/StruckanDesigns">Twitter</a> &middot; <a href="contact">Contact us</a>  &middot; <a href="https://struckandesigns.github.io/FunnyIconPack/">Privacy Policy</a> </p>
 </center>
-
-<div class="footer">
-  <p>&copy; 2020 Struckan Designs &middot; <a href="https://twitter.com/StruckanDesigns">Twitter</a> &middot; <a href="contact">Contact us</a>  &middot; <a href="https://struckandesigns.github.io/FunnyIconPack/">Privacy Policy</a> </p>
-</div>
 
 </body>
 </html>
