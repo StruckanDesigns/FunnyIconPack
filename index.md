@@ -19,6 +19,9 @@ p    {align="left"}
 }
 
 .topnav a {
+  border-radius: 25px;	
+  float: left;
+  display: block;
   float: left;
   color: #f2f2f2;
   text-align: center;
@@ -28,6 +31,7 @@ p    {align="left"}
 }
 
 .topnav a:hover {
+  border-radius: 25px;
   background-color: #4CAF50;
   color: white;
 }
