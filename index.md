@@ -40,15 +40,6 @@ p    {align="left"}
   background-color: #4CAF50;
   color: white;
 }
-
-.footer {
-   position: fixed;
-   left: 0;
-   bottom: 0;
-   width: 100%;
-   color: white;
-   text-align: center;
-}
     
 </style>
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
@@ -124,12 +115,10 @@ To assist us in analyzing how our Service is used.</p>
 <h1>Contact us</h1>
 
 <p>If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at struckandesigns@gmail.com</p>
+<br>
+<p>&copy; 2020 Struckan Designs &middot; <a href="https://twitter.com/StruckanDesigns">Twitter</a> &middot; <a href="contact">Contact us</a>  &middot; <a href="https://struckandesigns.github.io/FunnyIconPack/">Privacy Policy</a> </p>
 
 </center>
-
-<div class="footer">
-  <p>&copy; 2020 Struckan Designs &middot; <a href="https://twitter.com/StruckanDesigns">Twitter</a> &middot; <a href="contact">Contact us</a>  &middot; <a href="https://struckandesigns.github.io/FunnyIconPack/">Privacy Policy</a> </p>
-</div>
 
 </body>
 </html>
