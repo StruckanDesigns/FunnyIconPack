@@ -57,15 +57,10 @@ p    {align="left"}
 
 <h1>Contact us</h1>
 
-<p>If you have any questions or suggestions, do not hesitate to contact me at struckandesigns@gmail.com</p>
+<p>If you have any questions or suggestions, do not hesitate to contact me at struckandesigns@gmail.com or you can go to our helpdesk <a href="struckandesigns.freshdesk.com">Click here to go to our help desk</a></p>
 
 
-<script type="text/javascript" src="https://s3.amazonaws.com/assets.freshdesk.com/widget/freshwidget.js"></script>
-<style type="text/css" media="screen, projection">
-	@import url(https://s3.amazonaws.com/assets.freshdesk.com/widget/freshwidget.css); 
-</style> 
-<iframe title="Feedback Form" class="freshwidget-embedded-form" id="freshwidget-embedded-form" src="https://struckandesigns.freshdesk.com/widgets/feedback_widget/new?&widgetType=embedded&screenshot=No&captcha=yes" scrolling="no" height="500px" width="100%" frameborder="0" >
-</iframe>
+
 
 
 <br>
