@@ -1,2 +1,13 @@
 title: Struckan Designs Privacy Policy
 description: Funny Icon Pack
+
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+
+include:
+  - README.md
+  - contact.md
+  - changelog.md
