@@ -48,9 +48,9 @@ p    {align="left"}
 <body>
 
 <div class="topnav">
-  <a href="changelog.md">Change Log</a>
-  <a class="active" href="contact.md">Contact</a>
-  <a href="index.md">Privacy Policy</a>
+  <a href="changelog">Change Log</a>
+  <a class="active" href="contact">Contact</a>
+  <a href="index">Privacy Policy</a>
 </div>
 
 <center>
