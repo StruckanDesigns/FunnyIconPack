@@ -7,6 +7,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;    
     }
 h1   {color: white;}
+h2   {color: white;}
 h3   {color: white;}
 p    {color: white;}
 p    {align="left"}
@@ -59,10 +60,10 @@ p    {align="left"}
 
 <center>
 
-<h3>v1.9.0</h3>
+<h2>v1.9.0</h2>
 <p>Added all Google icons</p>
 
-<h3>v1.8.0</h3>
+<h2>v1.8.0</h2>
 <p>Added link to my websitek<br>
    Added Privacy Policy link<br>
    Added Terms And Condition link</p>
