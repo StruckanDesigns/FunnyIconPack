@@ -59,7 +59,7 @@ p    {align="left"}
 
 <center>
 
-<h1>v1.7.0</h1>
+<h1>v1.9.0</h1>
 <p>Added all Google icons</p>
 
 <h1>v1.8.0</h1>
