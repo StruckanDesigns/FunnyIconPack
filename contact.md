@@ -70,9 +70,9 @@ p    {align="left"}
 
 </center>
 
-<div class="footer">
+<footer>
   <p>&copy; 2020 Struckan Designs &middot; <a href="https://twitter.com/StruckanDesigns">Twitter</a> &middot; <a href="contact">Contact us</a>  &middot; <a href="https://struckandesigns.github.io/FunnyIconPack/">Privacy Policy</a> </p>
-</div>
+</footer
 
 </body>
 </html>
