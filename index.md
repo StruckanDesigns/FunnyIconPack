@@ -50,7 +50,7 @@ p    {align="left"}
 <div class="topnav">
   <a href="changelog">Change Log</a>
   <a href="contact">Contact</a>
-  <a class="active" href="index">Privacy Policy</a>
+  <a class="active" href="https://struckandesigns.github.io/FunnyIconPack/">Privacy Policy</a>
 </div>
 
 <center>
