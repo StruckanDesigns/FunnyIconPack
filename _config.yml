@@ -1,6 +1,6 @@
-name: struckandesigns site
+name: null
 title: null
-description: Funny Icon Pack
+description: null
 
 plugins:
   - jekyll-relative-links
