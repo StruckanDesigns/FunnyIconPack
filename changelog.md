@@ -60,10 +60,10 @@ p    {align="left"}
 
 <center>
 
-<h2>v1.9.0</h2>
+<p>v1.9.0</p>
 <p>Added all Google icons</p>
 
-<h2>v1.8.0</h2>
+<p>v1.8.0</p>
 <p>Added link to my websitek<br>
    Added Privacy Policy link<br>
    Added Terms And Condition link</p>
