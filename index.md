@@ -49,7 +49,7 @@ p    {align="left"}
 
 <div class="topnav">
   <a href="changelog.md">Change Log</a>
-  <a href="contact.md">Contact</a>
+  <a href="contact.html">Contact</a>
   <a class="active" href="index.md">Privacy Policy</a>
 </div>
 
