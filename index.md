@@ -44,6 +44,7 @@ p    {align="left"}
 </style>
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
   <link rel="icon" href="/favicon.ico" type="image/x-icon">
+  <title>Privacy Policy</title>
 </head>
 <body>
 
