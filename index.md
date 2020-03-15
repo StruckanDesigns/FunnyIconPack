@@ -15,7 +15,7 @@ p    {align="left"}
 
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: #161625;
 }
 
 .topnav a {
