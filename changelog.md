@@ -54,11 +54,16 @@ p    {align="left"}
 
 <center>
 
-<h1>Change Log <br>Current Version: 2.1.0</h1>
+<h1>Change Log <br>Current Version: 2.2.0</h1>
 
 </center>
 
 <center>
+  
+  <p>v2.2.0</p>
+<p>Added links to website and twitter on main page</p>
+
+<hr>
   
   <p>v2.1.0</p>
 <p>Updated some icons to OneUi icon shape</p>
