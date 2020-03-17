@@ -54,11 +54,21 @@ p    {align="left"}
 
 <center>
 
-<h1>Change Log <br>Current Version: 1.9.0</h1>
+<h1>Change Log <br>Current Version: 2.1.0</h1>
 
 </center>
 
 <center>
+  
+  <p>v2.1.0</p>
+<p>Updated some icons to OneUi icon shape</p>
+
+<hr>
+  
+<p>v2.0.0</p>
+<p>Added 72 more icons</p>
+
+<hr>
 
 <p>v1.9.0</p>
 <p>Added all Google icons</p>
