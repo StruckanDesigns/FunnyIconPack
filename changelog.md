@@ -54,11 +54,27 @@ p    {align="left"}
 
 <center>
 
-<h1>Change Log <br>Current Version: 2.2.0</h1>
+<h1>Change Log <br>Current Version: 2.5.0</h1>
 
 </center>
 
 <center>
+  
+   <p>v2.5.0</p>
+<p>Added more icons</p>
+
+<hr>   
+  
+  <p>v2.4.0</p>
+<p>Added more icons</p>
+
+<hr>  
+  
+  <p>v2.3.0</p>
+<p>Added More icons<br>
+   Added Games filter in icon section</p>
+
+<hr>
   
   <p>v2.2.0</p>
 <p>Added links to website and twitter on main page</p>
