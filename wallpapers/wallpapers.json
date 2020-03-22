@@ -23,92 +23,79 @@
   ],
   "Wallpapers": [
     {
-      "name": "ShotA",
-      "author": "Someone",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
-      "collections": "featured,landscapes,people"
-    },
-    {
-      "name": "ShotB",
-      "author": "Someone",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
-      "dimensions": "3200x2560",
-      "collections": "people,city",
-      "downloadable": false
-    },
-    {
-      "author": "Someone",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
-      "name": "ShotC",
-      "dimensions": "1280x720",
-      "copyright": "Credits to its creator",
-      "collections": "landscapes,city"
-    },
-    {
-      "name": "Wallsplash 1",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "featured,landscapes,people,city",
-      "featured": true
-    },
-    {
-      "name": "Wallsplash 2",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "featured,landscapes,people,food"
-    },
-    {
-      "name": "Test6",
+      "name": "Baby Powder",
       "author": "Test6",
-      "url": "https://raw.githubusercontent.com/StruckanDesigns/FunnyIconPack/master/wallpapers/Cadet-Solid-Color-Background-Wallpaper-5120x2880.png",
+      "url": "https://raw.githubusercontent.com/StruckanDesigns/FunnyIconPack/master/wallpapers/Baby-Powder-Solid-Color-Background-Wallpaper-5120x2880.png",
       "copyright": "Credits to its creator",
       "downloadable": true      
     },
     {
-      "name": "Test5",
-      "author": "Test5",
-      "url": "https://raw.githubusercontent.com/StruckanDesigns/FunnyIconPack/master/wallpapers/Cadet-Grey-Solid-Color-Background-Wallpaper-5120x2880.png",
+      "name": "Battleship Grey",
+      "author": "Test6",
+      "url": "https://raw.githubusercontent.com/StruckanDesigns/FunnyIconPack/master/wallpapers/Battleship-Grey-Solid-Color-Background-Wallpaper-5120x2880.png",
       "copyright": "Credits to its creator",
       "downloadable": true      
     },
     {
-      "name": "Test4",
-      "author": "Test4",
-      "url": "https://raw.githubusercontent.com/StruckanDesigns/FunnyIconPack/master/wallpapers/Burnt-Umber-Solid-Color-Background-Wallpaper-5120x2880.png",
-      "copyright": "Credits to its creator",
-      "downloadable": true      
-    },
-    {
-      "name": "Test3",
-      "author": "Test3",
-      "url": "https://raw.githubusercontent.com/StruckanDesigns/FunnyIconPack/master/wallpapers/Burnt-Umber-Solid-Color-Background-Wallpaper-5120x2880.png",
-      "copyright": "Credits to its creator",
-      "downloadable": true      
-    },
-    {
-      "name": "Test2",
-      "author": "Test2",
+      "name": "Bone",
+      "author": "Test6",
       "url": "https://raw.githubusercontent.com/StruckanDesigns/FunnyIconPack/master/wallpapers/Bone-Solid-Color-Background-Wallpaper-5120x2880.png",
       "copyright": "Credits to its creator",
       "downloadable": true      
     },
     {
-      "name": "Test1",
+      "name": "Burnt Umber",
+      "author": "Test6",
+      "url": "https://raw.githubusercontent.com/StruckanDesigns/FunnyIconPack/master/wallpapers/Burnt-Umber-Solid-Color-Background-Wallpaper-5120x2880.png",
+      "copyright": "Credits to its creator",
+      "downloadable": true      
+    },
+    {
+      "name": "Cadet Grey",
+      "author": "Test6",
+      "url": "https://raw.githubusercontent.com/StruckanDesigns/FunnyIconPack/master/wallpapers/Cadet-Grey-Solid-Color-Background-Wallpaper-5120x2880.png",
+      "copyright": "Credits to its creator",
+      "downloadable": true      
+    },
+    {
+      "name": "Cadet",
+      "author": "Test5",
+      "url": "https://raw.githubusercontent.com/StruckanDesigns/FunnyIconPack/master/wallpapers/Cadet-Solid-Color-Background-Wallpaper-5120x2880.png",
+      "copyright": "Credits to its creator",
+      "downloadable": true      
+    },
+    {
+      "name": "Cafe Noir",
+      "author": "Test4",
+      "url": "https://raw.githubusercontent.com/StruckanDesigns/FunnyIconPack/master/wallpapers/Cafe-Noir-Solid-Color-Background-Wallpaper-5120x2880.png",
+      "copyright": "Credits to its creator",
+      "downloadable": true      
+    },
+    {
+      "name": "Caput Mortuum",
+      "author": "Test3",
+      "url": "https://raw.githubusercontent.com/StruckanDesigns/FunnyIconPack/master/wallpapers/Caput-Mortuum-Solid-Color-Background-Wallpaper-5120x2880.png",
+      "copyright": "Credits to its creator",
+      "downloadable": true      
+    },
+    {
+      "name": "Catawba",
+      "author": "Test2",
+      "url": "https://raw.githubusercontent.com/StruckanDesigns/FunnyIconPack/master/wallpapers/Catawba-Solid-Color-Background-Wallpaper-5120x2880.png",
+      "copyright": "Credits to its creator",
+      "downloadable": true      
+    },
+    {
+      "name": "Champagne",
       "author": "Test1",
-      "url": "https://raw.githubusercontent.com/StruckanDesigns/FunnyIconPack/master/wallpapers/Battleship-Grey-Solid-Color-Background-Wallpaper-5120x2880.png",
+      "url": "https://raw.githubusercontent.com/StruckanDesigns/FunnyIconPack/master/wallpapers/Champagne-Solid-Color-Background-Wallpaper-5120x2880.png",
       "copyright": "Credits to its creator",
       "downloadable": true
     },
     {
-      "name": "Test",
+      "name": "Cinereous",
       "author": "Test",
-      "url": "https://raw.githubusercontent.com/StruckanDesigns/FunnyIconPack/master/wallpapers/Baby-Powder-Solid-Color-Background-Wallpaper-5120x2880.png",
+      "url": "https://raw.githubusercontent.com/StruckanDesigns/FunnyIconPack/master/wallpapers/Cinereous-Solid-Color-Background-Wallpaper-5120x2880.png",
       "copyright": "Credits to its creator",
       "downloadable": true
     }
