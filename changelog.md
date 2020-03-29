@@ -60,7 +60,7 @@ p    {align="left"}
 
 <center>
   
-   <p>v2.5.0</p>
+   <p>v1.0.0</p>
 <p>First Version Released</p>
 
 <hr>
