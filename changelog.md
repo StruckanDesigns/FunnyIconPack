@@ -54,140 +54,14 @@ p    {align="left"}
 
 <center>
 
-<h1>Change Log <br>Current Version: 2.5.0</h1>
+<h1>Change Log <br>Current Version: 1.0.0</h1>
 
 </center>
 
 <center>
   
    <p>v2.5.0</p>
-<p>Added more icons</p>
-
-<hr>   
-  
-  <p>v2.4.0</p>
-<p>Added more icons</p>
-
-<hr>  
-  
-  <p>v2.3.0</p>
-<p>Added More icons<br>
-   Added Games filter in icon section</p>
-
-<hr>
-  
-  <p>v2.2.0</p>
-<p>Added links to website and twitter on main page</p>
-
-<hr>
-  
-  <p>v2.1.0</p>
-<p>Updated some icons to OneUi icon shape</p>
-
-<hr>
-  
-<p>v2.0.0</p>
-<p>Added 72 more icons</p>
-
-<hr>
-
-<p>v1.9.0</p>
-<p>Added all Google icons</p>
-
-<hr>
-
-<p>v1.8.0</p>
-<p>Added link to my websitek<br>
-   Added Privacy Policy link<br>
-   Added Terms And Condition link</p>
-   
-<hr>
-
-<p>v1.7.0</p>
-<p>Added firebase analytics</p>
-
-<hr>
-
-<p>v1.6.0</p>
-<p> Added a new icon for the app<br>
-    Added more icons<br>
-    Changed the name of the icon pack</p>
-    
-<hr>
-
-<p>v1.5.0</p>
-<p>Added more icons</p>
-
-<hr>
-
-<p>v1.4.0</p>
-<p>Added filters to icon tab</p>
-
-<hr>
-
-<p>v1.3.0</p>
-<p>Removed the limit for how many icons you can request</p>
-
-<hr>
-
-<p>v1.2.0</p>
-<p>Added more icons</p>
-
-<hr>
-
-<p>v1.1.0</p>
-<p>Added more icons</p>
-
-<hr>
-
-<p>v1.0.9</p>
-<p>Added more icons</p>
-
-<hr>
-
-<p>v1.0.8</p>
-<p>Added Dynamic Samsung and Google Calendar</p>
-
-<hr>
-
-<p>v1.0.7</p>
-<p>Added more icons</p>
-
-<hr>
-
-<p>v1.0.6</p>
-<p>Added more icons<br>
-   Added new wallpaper location</p>
-
-<hr>
-
-<p>v1.0.5</p>
-<p>Added more icons</p>
-
-<hr>
-
-<p>v1.0.4</p>
-<p>Added more icons</p>
-
-<hr>
-
-<p>v1.0.3</p>
-<p>Added twenty more icons</p>
-
-<hr>
-
-<p>v1.0.2</p>
-<p>Added three more icons</p>
-
-<hr>
-
-<p>v1.0.1</p>
-<p>Added Spotify icon</p>
-
-<hr>
-
-<p>v1.0.0</p>
-<p>First version released</p>
+<p>First Version Released</p>
 
 <hr>
 
