@@ -59,11 +59,10 @@ p    {align="left"}
 
 <p>If you have any questions or suggestions, do not hesitate to contact me at struckandesigns@gmail.com or you can go to our helpdesk <a href="https://struckandesigns.freshdesk.com/">Click here to go to our help desk</a></p>
 
-
-
-
-
 <br>
+
+<hr>
+
 <p>&copy; 2020 Struckan Designs &middot; <a href="https://twitter.com/StruckanDesigns">Twitter</a> &middot; <a href="contact">Contact us</a>  &middot; <a href="https://struckandesigns.github.io/FunnyIconPack/">Privacy Policy</a> </p>
 
 </center>
