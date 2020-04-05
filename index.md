@@ -65,7 +65,7 @@ p    {align="left"}
 
 <p>This is Funny Icon Pack for android</p>
 <p>Latest Version v1.0.0</p>
-<p>Current icons in the pack:472</p>
+<p>Current icons in the pack:476</p>
 
 
 <hr>
