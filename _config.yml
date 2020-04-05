@@ -6,7 +6,7 @@ plugins:
   - jekyll-relative-links
 relative_links:
   enabled: false
-  collections: true
+  collections: false
 
 include:
   - README.md
