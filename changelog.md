@@ -67,7 +67,7 @@ p    {align="left"}
 <hr>
 
 <br>
-<p>&copy; 2020 Struckan Designs &middot; <a href="https://twitter.com/StruckanDesigns">Twitter</a> &middot; <a href="contact">Contact us</a>  &middot; <a href="https://struckandesigns.github.io/FunnyIconPack/">Privacy Policy</a> </p>
+<p>&copy; 2020 Struckan Designs &middot; <a href="https://twitter.com/StruckanDesigns">Twitter</a> &middot; <a href="contact">Contact us</a>  &middot; <a href="privacypolicy">Privacy Policy</a> </p>
 </center>
 
 </body>

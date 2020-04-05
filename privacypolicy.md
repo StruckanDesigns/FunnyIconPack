@@ -117,7 +117,7 @@ To assist us in analyzing how our Service is used.</p>
 
 <p>If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at struckandesigns@gmail.com</p>
 <hr>
-<p>&copy; 2020 Struckan Designs &middot; <a href="https://twitter.com/StruckanDesigns">Twitter</a> &middot; <a href="contact">Contact us</a>  &middot; <a href="https://struckandesigns.github.io/FunnyIconPack/">Privacy Policy</a> </p>
+<p>&copy; 2020 Struckan Designs &middot; <a href="https://twitter.com/StruckanDesigns">Twitter</a> &middot; <a href="contact">Contact us</a>  &middot; <a href="privacypolicy">Privacy Policy</a> </p>
 
 </center>
 
