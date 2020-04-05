@@ -19,7 +19,7 @@ p    {align="left"}
 }
 
 .topnav a {
-  border-radius: 25px;	
+  border-radius: 25px;  
   float: left;
   display: block;
   float: left;
@@ -48,9 +48,10 @@ p    {align="left"}
 <body>
 
 <div class="topnav">
+  <a href="https://struckandesigns.github.io/FunnyIconPack/">Home</a>
   <a href="changelog">Change Log</a>
   <a class="active" href="contact">Contact</a>
-  <a href="https://struckandesigns.github.io/FunnyIconPack/">Privacy Policy</a>
+  <a href="privacypolicy">Privacy Policy</a>
 </div>
 
 <center>
