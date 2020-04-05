@@ -1,6 +1,6 @@
 <html>
 <head>
-<link rel="shortcut icon" type="image/png" href="{{site.url}}/favicon.png">
+<link rel="shortcut icon" type="image/png" href="{{ site.baseurl }}/assets/images/favicon.png">
   <style>
 body {
     background-color: #161625;
