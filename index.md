@@ -1,6 +1,8 @@
 <html>
 <head>
-  <link rel="shortcut icon" type="image/png" href="favicon.png">
+  <link rel="shortcut icon" 
+      type="image/png" 
+      href="{{ 'favicon.png' | relative_url }}" >
   <style>
 body {
     background-color: #161625;
