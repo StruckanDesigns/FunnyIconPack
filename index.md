@@ -1,6 +1,5 @@
 <html>
 <head>
-<link rel="shortcut icon" type="image/png" href="assets/images/favicon.png">
   <style>
 body {
     background-color: #161625;
