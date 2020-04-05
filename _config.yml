@@ -13,3 +13,5 @@ include:
   - contact.md
   - changelog.md
   - privacypolicy.md
+
+theme: jekyll-theme-cayman
