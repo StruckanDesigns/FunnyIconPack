@@ -65,7 +65,7 @@ p    {align="left"}
 
 <p>This is Funny Icon Pack for android. Weakly updates on Fridays.</p>
 <p>Latest Version v1.0.0</p>
-<p>Current icons in the pack: 476</p>
+<p>Current icons in the pack: 477</p>
 
 
 <hr>
