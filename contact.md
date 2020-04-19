@@ -58,7 +58,7 @@ p    {align="left"}
 
 <h1>Contact us</h1>
 
-<p>If you have any questions or suggestions, do not hesitate to contact me at struckandesigns@gmail.com or you can go to our helpdesk <a href="https://struckandesigns.freshdesk.com/">Click here to go to our help desk</a></p>
+<p>If you have any questions or suggestions, do not hesitate to contact me at struckandesigns@gmail.com</p>
 
 <br>
 
