@@ -70,6 +70,13 @@ section {
   margin: 0 auto;
 }
 
+article {
+  float: center;
+  padding: 20px;
+  width: 80%;
+  background-color: var(--bg-color);
+}
+
 .post-meta {
   font-size: 1rem;
   font-style: italic;
