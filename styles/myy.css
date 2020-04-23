@@ -162,19 +162,21 @@ color: white;
 
 .topnav a {
   border-radius: 25px;	
+  border: 2px solid #4CAF50;
   float: left;
-  display: block;
+  display: inline-block;
   color:  var(--font-color);
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  margin-right: 4px;
 }
 
 .topnav a:hover {
   border-radius: 25px;
   background-color: #4CAF50;
-  color: none;
+  color:  var(--font-color);
 }
 
 .topnav .icon {
