@@ -59,7 +59,7 @@ p    {align="left"}
 
 <h1>Privacy Policy. Last updated 2020 April 18</h1>
 <p>Effective date: April 18, 2020</p>
-
+<hr>
 </center>
 
 <center>
