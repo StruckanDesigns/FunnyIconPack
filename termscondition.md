@@ -96,14 +96,14 @@ p    {align="left"}
                   compromise your phone’s security features and it could mean
                   that the Funny Icon Pack app won’t work properly or at all.
                 </p>
-                true
-                <div><p>
+                <p>
                     The app does use third party services that declare their own
                     Terms and Conditions.
                   </p> <p>
                     Link to Terms and Conditions of third party service
                     providers used by the app
-                  </p> <ul><li><a href="https://policies.google.com/terms" target="_blank">Google Play Services</a></li><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></ul></div> <p>
+                  <a href="https://policies.google.com/terms" target="_blank">Google Play Services</a></p>
+                  <p>
                   You should be aware that there are certain things that
                   Struckan Designs will not take responsibility for. Certain
                   functions of the app will require the app to have an active
@@ -157,7 +157,7 @@ p    {align="left"}
                   rights and licenses granted to you in these terms will end;
                   (b) you must stop using the app, and (if needed) delete it
                   from your device.
-                </p> <p><strong>Changes to This Terms and Conditions</strong></p> <p>
+                </p> <h1>Changes to This Terms and Conditions</h1> <p>
                   I may update our Terms and Conditions
                   from time to time. Thus, you are advised to review this page
                   periodically for any changes. I will
@@ -165,7 +165,7 @@ p    {align="left"}
                   Conditions on this page.
                 </p> <p>
                   These terms and conditions are effective as of 2020-04-18
-                </p> <p><strong>Contact Us</strong></p> <p>
+                </p> <h1>Contact Us</h1> <p>
                   If you have any questions or suggestions about my
                   Terms and Conditions, do not hesitate to contact me
                   at struckandesigns@gmail.com.
