@@ -57,7 +57,8 @@ p    {align="left"}
 
 <center>
 
-<h1>Privacy Policy + Terms and Conditions <br> Last updated 2020 April 18</h1>
+<h1>Privacy Policy. Last updated 2020 April 18</h1>
+<p>Effective date: April 18, 2020</p>
 
 </center>
 
