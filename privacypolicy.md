@@ -53,13 +53,13 @@ p    {align="left"}
   <a href="changelog">Change Log</a>
   <a href="contact">Contact</a>
   <a class="active" href="privacypolicy">Privacy Policy</a>
+  <a href="termscondition">Terms & Condition</a>
 </div>
 
 <center>
 
-<h1>Privacy Policy. Last updated 2020 April 18</h1>
-<p>Effective date: April 18, 2020</p>
-<hr>
+<h1>Privacy Policy + Terms and Conditions <br> Last updated 2020 March 14</h1>
+
 </center>
 
 <center>
@@ -68,7 +68,7 @@ p    {align="left"}
 
 <p>If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.</p>
 
-<p>The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at StruckanDesigns unless otherwise defined in this Privacy Policy.</p>
+<p>The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible <a href="termscondition">here</a>. unless otherwise defined in this Privacy Policy.</p>
 
 <h1>Information Collection and Use</h1>
 
@@ -76,6 +76,8 @@ p    {align="left"}
 <p>The app does use third party services that may collect information used to identify you.</p>
 <p>Link to privacy policy of third party service providers used by the app</p>
 <p><a href="https://policies.google.com/privacy">Google Play Services</a></p>
+<p><a href="https://firebase.google.com/policies/analytics">Firebase Analytics</a></p>
+<p><a href="https://onesignal.com/privacy_policy">OneSignal Privacy Policy</a></p>
 
 <h1>Log Data</h1>
 <p>I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.</p>
@@ -116,7 +118,7 @@ To assist us in analyzing how our Service is used.</p>
 
 <p>If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at struckandesigns@gmail.com</p>
 <hr>
-<p>&copy; 2020 Struckan Designs &middot; <a href="https://twitter.com/StruckanDesigns">Twitter</a> &middot; <a href="contact">Contact me</a>  &middot; <a href="privacypolicy">Privacy Policy</a> </p>
+<p>&copy; 2020 Struckan Designs &middot; <a href="https://twitter.com/StruckanDesigns">Twitter</a> &middot; <a href="contact">Contact us</a>  &middot; <a href="privacypolicy">Privacy Policy</a> </p>
 
 </center>
 

@@ -52,19 +52,20 @@ p    {align="left"}
   <a href="changelog">Change Log</a>
   <a class="active" href="contact">Contact</a>
   <a href="privacypolicy">Privacy Policy</a>
+  <a href="termscondition">Terms & Condition</a>
 </div>
 
 <center>
 
 <h1>Contact us</h1>
 
-<p>If you have any questions or suggestions, do not hesitate to contact me at struckandesigns@gmail.com</p>
+<p>If you have any questions or suggestions, do not hesitate to contact me at struckandesigns@gmail.com or you can go to our helpdesk <a href="https://struckandesigns.freshdesk.com/">Click here to go to our help desk</a></p>
 
 <br>
 
 <hr>
 
-<p>&copy; 2020 Struckan Designs &middot; <a href="https://twitter.com/StruckanDesigns">Twitter</a> &middot; <a href="contact">Contact me</a>  &middot; <a href="privacypolicy">Privacy Policy</a> </p>
+<p>&copy; 2020 Struckan Designs &middot; <a href="https://twitter.com/StruckanDesigns">Twitter</a> &middot; <a href="contact">Contact us</a>  &middot; <a href="privacypolicy">Privacy Policy</a> </p>
 
 </center>
 

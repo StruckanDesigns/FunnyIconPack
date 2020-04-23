@@ -53,6 +53,7 @@ p    {align="left"}
   <a href="changelog">Change Log</a>
   <a href="contact">Contact</a>
   <a href="privacypolicy">Privacy Policy</a>
+  <a href="termscondition">Terms & Condition</a>
 </div>
 
 <center>
@@ -63,13 +64,13 @@ p    {align="left"}
 
 <center>
 
-<p>This is Funny Icon Pack for android. Weakly updates on Fridays.</p>
+<p>This is Funny Icon Pack for android</p>
 <p>Latest Version v1.0.0</p>
-<p>Current icons in the pack: 570</p>
+<p>Current icons in the pack:472</p>
 
 
 <hr>
-<p>&copy; 2020 Struckan Designs &middot; <a href="https://twitter.com/StruckanDesigns">Twitter</a> &middot; <a href="contact">Contact me</a>  &middot; <a href="privacypolicy">Privacy Policy</a> </p>
+<p>&copy; 2020 Struckan Designs &middot; <a href="https://twitter.com/StruckanDesigns">Twitter</a> &middot; <a href="contact">Contact us</a>  &middot; <a href="privacypolicy">Privacy Policy</a> </p>
 
 </center>
 

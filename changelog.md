@@ -51,6 +51,7 @@ p    {align="left"}
   <a class="active" href="changelog">Change Log</a>
   <a href="contact">Contact</a>
   <a href="privacypolicy">Privacy Policy</a>
+  <a href="termscondition">Terms & Condition</a>
 </div>
 
 <center>
@@ -67,7 +68,7 @@ p    {align="left"}
 <hr>
 
 <br>
-<p>&copy; 2020 Struckan Designs &middot; <a href="https://twitter.com/StruckanDesigns">Twitter</a> &middot; <a href="contact">Contact me</a>  &middot; <a href="privacypolicy">Privacy Policy</a> </p>
+<p>&copy; 2020 Struckan Designs &middot; <a href="https://twitter.com/StruckanDesigns">Twitter</a> &middot; <a href="contact">Contact us</a>  &middot; <a href="privacypolicy">Privacy Policy</a> </p>
 </center>
 
 </body>
