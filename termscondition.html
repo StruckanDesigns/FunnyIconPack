@@ -1,70 +1,43 @@
+<!DOCTYPE html>
 <html>
 <head>
-  <style>
-body {
-    background-color: #161625;
-    margin: 0;
-    font-family: Arial, Helvetica, sans-serif;    
-    }
-h1   {color: white;}
-h3   {color: white;}
-p    {color: white;}
-p    {align="left"}
 
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" href="images/icon.jpg" type="image/gif" sizes="16x16"></link>
+<link rel="stylesheet" type="text/css" href="myy.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-
-.topnav {
-  overflow: hidden;
-  background-color: #161625;
-}
-
-.topnav a {
-  border-radius: 25px;  
-  float: left;
-  display: block;
-  float: left;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
-
-.topnav a:hover {
-  border-radius: 25px;
-  background-color: #4CAF50;
-  color: white;
-}
-
-.topnav a.active {
-  background-color: #4CAF50;
-  color: white;
-}
-    
-</style>
-  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-  <link rel="icon" href="/favicon.ico" type="image/x-icon">
   <title>Terms & Condition</title>
-</head>
-<body>
 
-<div class="topnav">
+</head>
+<body class="body">  
+
+      <div class="wrapper">
+
+ <div class="topnav" id="myTopnav">
+
   <a href="https://struckandesigns.github.io/FunnyIconPack/">Home</a>
   <a href="changelog">Change Log</a>
   <a href="contact">Contact</a>
   <a href="privacypolicy">Privacy Policy</a>
   <a class="active" href="termscondition">Terms & Condition</a>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+  </a>
 </div>
 
-<center>
+ <br>
 
-<h1>Terms & Condition. Last updated 2020 April 18</h1>
+<div class="theme-switch-wrapper">
+    <label class="theme-switch" for="checkbox">
+        <input type="checkbox" id="checkbox" />
+        <div class="slider round"></div>
+  </label>
+  <em>Enable Dark Mode!</em>
+</div>
+<section>
+ <center>  <h1>Terms & Condition. Last updated 2020 April 18</h1>
 <p>Effective date: April 18, 2020</p>
-<hr>
-</center>
-
-
-<center>
 
 <p>
                   By downloading or using the app, these terms will
@@ -170,11 +143,55 @@ p    {align="left"}
                   Terms and Conditions, do not hesitate to contact me
                   at struckandesigns@gmail.com.
                 </p>
-
-<hr>
-<p>&copy; 2020 Struckan Designs &middot; <a href="https://twitter.com/StruckanDesigns">Twitter</a> &middot; <a href="contact">Contact me</a>  &middot; <a href="privacypolicy">Privacy Policy</a> &middot; <a href="termscondition">Terms & Condition</a> </p>
-
+                
 </center>
 
+<script src="jquery.min.js"></script>
+<script src="jquery-latest.min.js"></script>
+<script src="jquery.cookie.min.js"></script>
+
+<script>
+    
+  const toggleSwitch = document.querySelector('.theme-switch input[type="checkbox"]');
+  const currentTheme = localStorage.getItem('theme');
+
+  if (currentTheme) {
+      document.documentElement.setAttribute('data-theme', currentTheme);
+
+      if (currentTheme === 'dark') {
+          toggleSwitch.checked = true;
+      }
+  }
+
+  function switchTheme(e) {
+      if (e.target.checked) {
+          document.documentElement.setAttribute('data-theme', 'dark');
+          localStorage.setItem('theme', 'dark');
+      }
+      else {        document.documentElement.setAttribute('data-theme', 'light');
+            localStorage.setItem('theme', 'light');
+      }    
+  }
+
+  toggleSwitch.addEventListener('change', switchTheme, false);
+
+  </script>
+
+<script>
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+</script>
+
+<hr>
+<center>
+<br>
+<footer><p>&copy; 2020 Struckan Designs &middot; <a href="https://twitter.com/StruckanDesigns">Twitter</a> &middot; <a href="contact">Contact me</a>  &middot; <a href="privacypolicy">Privacy Policy</a> &middot; <a href="termscondition">Terms & Condition</a> </p></footer>
+</center></section>
 </body>
 </html>
